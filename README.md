@@ -53,11 +53,10 @@ See [controls and settings](docs/controls.md) for details.
 
 ## In game
 
-**[Watch the 46-second gameplay showcase](https://github.com/01egendarY/RampLoom/issues/1)**
-— actual RampLoom 0.5.2 gameplay without shaders: crafting, all four pieces,
+**46-second gameplay showcase** — actual RampLoom 0.5.2 gameplay without shaders: crafting, all four pieces,
 several edits, interactive doors, upgrades and cascading collapse. Silent, 720p60.
 
-[![Watch RampLoom gameplay](assets/screenshots/video-preview.jpg)](https://github.com/01egendarY/RampLoom/issues/1)
+https://github.com/user-attachments/assets/870a4de9-d7c6-4d67-bc73-f82c82626eb1
 
 [Download the video (MP4, 8.7 MB)](https://github.com/01egendarY/RampLoom/releases/download/v0.5.2/ramploom-showcase-v2-github-720p60.mp4).
 
