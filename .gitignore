@@ -1,0 +1,8 @@
+*.jar
+*.zip
+*.mkv
+*.mp4
+*.mov
+*.log
+.DS_Store
+Thumbs.db

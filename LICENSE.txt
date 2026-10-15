@@ -1,0 +1,27 @@
+RampLoom Binary Use License — 2026-10-14
+
+This license applies to the released RampLoom JAR and its bundled original mod
+assets. It does not grant access to private source code or rights to Minecraft,
+Fabric, other mods, or third-party material.
+
+You may download, install and use RampLoom for free in singleplayer and on
+servers. You may include an unmodified official JAR in a modpack and distribute
+that modpack, provided RampLoom remains identifiable, this license is retained,
+and the mod is not sold as a paid product. Credit RampLoom and link to an official
+project page when that page becomes available. Server use is permitted; this
+license grants no rights to commercialize Minecraft or other third-party assets.
+
+You may not sell RampLoom, claim authorship of it, remove its attribution or
+license, or redistribute modified copies without separate permission. Public
+availability of the JAR does not make the private source code open source.
+
+Permission to host official releases on GitHub and CurseForge is reserved to
+the project publisher and separately authorized platform operators. Modpack
+distribution of the unchanged JAR is permitted as stated above; this license
+does not grant unrelated parties permission to create standalone download
+mirrors or impersonate official project pages.
+
+The mod is provided as a public beta, without warranties, to the extent allowed
+by applicable law. Back up your worlds before installing updates. Nothing in
+this license limits rights that cannot legally be excluded or supersedes the
+terms of the base game or dependencies.
