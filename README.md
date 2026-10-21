@@ -8,8 +8,17 @@ Place walls, floors, ramps and roofs using a blueprint. Edit their shapes,
 upgrade wood to stone and metal, and watch structures collapse when their last
 foundation is removed.
 
-**Latest download: [0.5.2 · Public beta](https://github.com/01egendarY/RampLoom/releases/tag/v0.5.2)** ·
+**Latest download: [0.6.2 · Public beta](https://github.com/01egendarY/RampLoom/releases/tag/v0.6.2)** ·
 [All versions](https://github.com/01egendarY/RampLoom/releases) · [Changelog](CHANGELOG.md)
+
+## What's new in 0.6.2
+
+- Shared **3×3 grid**: turn and place four walls around your cell without lining up individual blocks.
+- **3×1, 3×2 and 3×3** pieces; aim to choose the strip or pair of strips inside a cell.
+- Expand narrow pieces in the editor for materials. Resets restore the purchased size and strip positions.
+- Mixed-material intersections no longer flicker, and previews no longer make ocean water disappear.
+
+See the [changes since 0.5.2](CHANGELOG.md#062--2026-10-21) and [editing guide](docs/controls.md#editing-and-expansion).
 
 ## Requirements
 
@@ -32,18 +41,24 @@ and other Minecraft versions are not advertised as supported.
 3. Hold it in your main hand, choose a piece with **1–4** and **left-click** to
    place. Hold the button for continuous building.
 
-Download `ramploom-0.5.2.jar` from the release. GitHub's automatic **Source code**
+Download `ramploom-0.6.2.jar` from the release. GitHub's automatic **Source code**
 archives contain this showcase's documents and images, not the playable mod.
 
-Pieces are available in 3×3, 2×2, 3×1 and 2×1 sizes. Their material costs are
-respectively 5, 2, 2 and 1: `ceil(area / 2)`. Walls use height × width; the other
+Pieces are available in **3×3, 3×1 and 3×2** sizes. Their initial material costs are
+respectively **5, 2 and 3**: `ceil(area / 2)`. Walls use height × width; the other
 pieces use forward length × width. Creative mode consumes no resources.
+
+For multiplayer, update RampLoom on **every client and the server** to the same
+version. Back up worlds before upgrading from 0.5.2. Existing structures keep
+their positions; old 2×2 and 2×1 pieces remain readable but cannot be newly placed.
+Do not reopen worlds saved with 0.6.x using an older mod version.
 
 ## Main features
 
 - Four pieces with shared rendering, selection and collision geometry.
-- Transparent green/red placement previews and connected construction grids.
+- Transparent green/red previews and shared 3×3 placement cells.
 - Wall/floor edits, connected ramp patterns and editable roof corners.
+- Paid width expansion with persistent purchased size and free shape resets.
 - Interactive doors, with an empty-doorway alternative in settings.
 - Wood → stone → metal upgrades, plus repair and tool-sensitive mining.
 - Foundation checks and bottom-to-top collapse waves with debris.
@@ -55,6 +70,9 @@ See [controls and settings](docs/controls.md) for details.
 
 **46-second gameplay showcase** — actual RampLoom 0.5.2 gameplay without shaders: crafting, all four pieces,
 several edits, interactive doors, upgrades and cascading collapse. Silent, 720p60.
+
+The video and gallery below were recorded in 0.5.2. The current version adds the
+shared grid and editor expansion described above.
 
 https://github.com/user-attachments/assets/870a4de9-d7c6-4d67-bc73-f82c82626eb1
 
