@@ -103,8 +103,11 @@ recipe running in Minecraft with RampLoom 0.5.2.
 
 ## Beta status
 
-Back up worlds before updates. Multiplayer latency, large constructions and
-varied shader packs need more testing. This mod adapts fast building to Minecraft;
+> **Multiplayer:** Co-op and online multiplayer have not been play-tested.
+> Multiplayer support is experimental.
+
+Back up worlds before updates. Large constructions and varied shader packs
+need more testing. This mod adapts fast building to Minecraft;
 it does not promise exact parity with another game.
 
 The public repository contains documentation, branding and approved gameplay
